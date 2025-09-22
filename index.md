@@ -9,3 +9,9 @@ let num = 24;
 console.log(num);
 ```
 
+A task list:
+- [x] DONE booo
+- [ ] TODO foo
+- [ ] TODO bar
+- [ ] 
+
